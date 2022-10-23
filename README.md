@@ -7,7 +7,7 @@ A simple Tailwind plugin written to create underline utilities.
 - [Underline offset](#underline-offset)
 
 ## Installation
-To install, run `npm i tailwind-underline-utils` in your site's front-end directory. Then `require` the plugin within your Tailwind configuration file, for instance:
+To install, run `npm i -D tailwind-underline-utils` in your site's front-end directory. Then `require` the plugin within your Tailwind configuration file, for instance:
 
 ```
 plugins: [
